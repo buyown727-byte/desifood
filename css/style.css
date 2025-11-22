@@ -1,0 +1,102 @@
+*{
+    padding: 0%;
+    margin: 0;
+}
+body{
+    background-color: rgb(22, 17, 17);
+    /* background-image: url(../pic/jpg2222.avif);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover; */
+
+    
+}
+h1{
+    color: rgb(228, 187, 7);
+    font-size: 60px;
+
+    
+  
+}
+span{
+    color: rgb(216, 246, 236);
+}
+p{
+    color: aliceblue;
+    font-size: 20px;
+}
+.content{
+    width: 1600px;
+    height: auto;
+    margin: auto;
+    position: relative;
+}
+.content .para{
+    padding-left: 10px;
+    padding-bottom: 25px;
+    padding-top:10px;
+    font-family: arial;
+    letter-spacing: 1.3px;
+    line-height: 35px;
+
+    
+}
+.content h1{
+font-family: 'Times New Roman';
+font-size: 50px;
+padding-left: 10px;
+margin-top: 10%;
+letter-spacing: 2px;
+}
+ul{
+    width: 1500px;
+    color: antiquewhite;
+    font-family: arial;
+    font-size: 50px;
+}
+.nav{
+    font-size:20px;
+    padding-left: 100px;
+    margin-top: 1%;
+    padding: 15px;
+    color: rgb(248, 253, 244);
+    text-align: right;
+}
+.box1,.box2,.box3,.box4,.box5{
+    display: inline;
+    padding-left: 150px;
+    padding-right: 40px;
+    margin-top: 2%;
+    text-align: right;
+    
+
+}
+.logo{
+    display: inline;
+    text-align: left;
+    width: 1500px;
+    margin-top: 10px;
+    margin: auto;
+    height: auto;
+    padding-right: 490px;
+    position: relative;
+    font-size: 50px;
+}
+.oo{
+    color: rgb(248, 177, 25);
+}
+.cn{
+    margin-top: 1%;
+    text-decoration: none;
+    width: 160px;
+    height: 40px;
+    border: none;
+    position: relative;
+    margin-left: 150px;
+    font-size: 20px;
+    border-radius: 50px;
+    background-color: rgb(237, 186, 33);
+
+
+    
+}
